@@ -2,8 +2,8 @@ int rosso = 12;
 int verde = 10;
 int bianco = 8;
 int giallo = 6;
-int tempo = random(1000,5001);
-int tempo_ = random(1000,5001);
+int tempo = random(2000,6001);
+int tempo_ = random(1000,3001);
 int cicli;
 
 void setup() {
